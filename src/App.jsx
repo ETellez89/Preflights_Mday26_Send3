@@ -633,7 +633,7 @@ export default function App() {
               padding: "7px 16px", borderRadius: 20, cursor: "pointer",
               background: "#53D989", color: "#1d0533", border: "none",
               fontSize: 12.5, fontWeight: 700, fontFamily: "inherit",
-            }}>🔗 Share link</button>
+            }}>🔗 Share Link</button>
           </div>
 
           {/* Variable controls */}
